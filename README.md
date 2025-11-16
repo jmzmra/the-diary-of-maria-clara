@@ -24,13 +24,18 @@ This project is for **educational purposes only**. It is intended to honor and a
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+```
 
+```bash
 2. Install dependencies:
 npm install
 # or
 yarn install
+```
 
+```bash
 3. Run the project locally:
 npm start
 # or
 yarn start
+```
