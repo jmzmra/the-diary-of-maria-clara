@@ -220,22 +220,11 @@ function Book() {
                         dibdib na nagsusumigaw ng pagtutol, ngunit takot akong marinig iyon kahit ng sarili ko.
                     </p>
                 </div>
-                <div className="page-number">6</div>
+                <div className="page-number">7</div>
             </div>
 
             {/* PAGE 8 */}
             <div className="page right-page">
-                <div className="page-content">
-                    <h3 className="entry-date"></h3>
-                    <p className="entry-text">
-
-                    </p>
-                </div>
-                <div className="page-number">8</div>
-            </div>
-
-            {/* PAGE 9 */}
-            <div className="page left-page">
                 <div className="page-content">
                     <p className="entry-text">
                         Tuwing tinititigan ko ang repleksiyon ko, nakikita ko lamang ang hiya. Para bang may bahid ang
@@ -245,7 +234,24 @@ function Book() {
                         ito. Hangad ko ang kapayapaan, ngunit napakalayo ng langit sa aking mga panalangin. Humihingi
                         ako ng tawad sa Panginoon, ngunit paano ko patatawarin ang aking sarili kung pasan ko ang
                         kasalanan ng aking ama at ang sakit na pinasan ng aking ina?
+                    </p>
+                </div>
+                <div className="page-number">8</div>
+            </div>
 
+            {/* PAGE 9 */}
+            <div className="page left-page">
+                <div className="page-content">
+                    <h3 className="entry-date">28 de noviembre de 1881</h3>
+                    <p className="entry-text">
+                        Sa bawat araw na nagdaan, umaasa ako na siya’y babalik. Ni anino man lang niya ay hindi ko
+                        nakita, o kahit man lang sana bumulong siya sa hangin upang maramdaman ko na ako’y iniisip pa
+                        rin niya… ngunit wala. Bakit wala? Bakit mo ginagawa ito sa akin, Crisóstomo? Dahil ba hindi
+                        kita naipagtanggol? Dahil ba wala ka nang mukhang maihaharap sa aking ama? Matapos ang nangyari,
+                        hindi mo na ba nais pang bumalik kaya’t ako’y iniwan mo na lamang dito, sa mga taong walang
+                        ibang alam kundi ang makialam sa mga bagay na alam nilang hindi naman makapagpapaligaya sa akin?
+                        Nais ko lamang maunawaan ang dahilan kung bakit mo ako iniwan ng ganito. Ayokong mawala ka.
+                        Nakikiusap ako, bumalik ka sa akin, kahit saglit.
                     </p>
                 </div>
                 <div className="page-number">9</div>
